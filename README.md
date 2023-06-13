@@ -1,6 +1,6 @@
-- 👀 I’m interested in utilizing data to answer biological and business questions
-- 🌱 I’m currently learning Python, SQL and other tools.
-- 💞️ I’m looking to collaborate on any project that provides me with useful experience. 
+- I’m interested in utilizing data to answer biological and business questions
+- I’m currently learning Python, SQL and other tools.
+- I’m looking to collaborate on any project that provides me with useful experience. 
 - 📫 You can reach me at jtbest713@gmail.com
 
 <!---
